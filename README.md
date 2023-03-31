@@ -28,6 +28,6 @@ Développé par Juliette de Quatrebarbes, Manon Mucchielli, Lorena Campos, Coren
 ![homepage](https://user-images.githubusercontent.com/115532041/229147873-9b72481b-d538-412e-91a6-8a5be0bdbdac.png)
 ![cards](https://user-images.githubusercontent.com/115532041/229148060-d93d7df9-98c4-4656-9a98-4480f1686dd7.png)
 ![product](https://user-images.githubusercontent.com/115532041/229148089-62c16cc2-a855-4d85-919e-4d79f8c0b65e.png)
-![profilUser](https://user-images.githubusercontent.com/115532041/229148118-3d2142da-e42f-4527-b80b-03ddb6fac968.png)
+![profilUser](https://user-images.githubusercontent.com/115532041/229150381-6c4c1a13-f38a-4178-a364-9476e2f55bce.png)
 ![admin](https://user-images.githubusercontent.com/115532041/229148137-b0842704-e2b2-45a5-861a-ee732e3bda9e.png)
 ![login](https://user-images.githubusercontent.com/115532041/229148153-2b710950-c1b5-4bad-8452-1d72c03fe9f9.png)
