@@ -1,4 +1,4 @@
-# Réseau social: Vagabond Ventures
+# Plateforme E-commerce: Funky Furnish.
 
 
 Projet collectif d'une durée de 2 semaines sur la création d’une plateforme de vente en ligne dynamique en groupe de 9 en alternant front et back-end. 
